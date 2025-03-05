@@ -1,0 +1,20 @@
+{
+    "12456": {
+        "id_producto": 12456,
+        "nombre": "Manzanas",
+        "cantidad": 12,
+        "precio": 1.5
+    },
+    "54321": {
+        "id_producto": 54321,
+        "nombre": "Platanos",
+        "cantidad": 10,
+        "precio": 0.5
+    },
+    "14253": {
+        "id_producto": 14253,
+        "nombre": "Aguacate",
+        "cantidad": 5,
+        "precio": 1.0
+    }
+}
