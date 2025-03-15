@@ -1,3 +1,0 @@
-Manzanas,20,2.0
-Peras,15,1.35
-Huevos,40,4.5
