@@ -1,6 +1,6 @@
-#bjetivo:
-#Desarrollar una aplicación de interfaz gráfica de usuario (GUI) que permita a los usuarios interactuar con datos de
-#manera visual, utilizando los conceptos aprendidos sobre GUI.
+# bjetivo:
+# Desarrollar una aplicación de interfaz gráfica de usuario (GUI) que permita a los usuarios interactuar con datos de
+# manera visual, utilizando los conceptos aprendidos sobre GUI.
 
 import tkinter as tk
 from tkinter import messagebox
